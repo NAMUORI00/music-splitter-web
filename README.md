@@ -21,7 +21,7 @@
 - **어떻게** — 로그인·화면은 Spring Boot, 무거운 AI 처리는 FastAPI로 서버를 나눠 언어별로 역할 분담
 - **결과** — 회원가입 → 로그인 → 업로드 → 5개 트랙 재생·다운로드까지 로컬에서 동작 ([데모 영상](#데모-영상))
 
-![MusicSplitterWeb](https://github.com/NAMUORI00/MusicSplitterWeb/assets/46620366/348ddb28-01be-4bbd-903c-63313b6ed218)
+![MusicSplitterWeb](https://github.com/NAMUORI00/music-splitter-web/assets/46620366/348ddb28-01be-4bbd-903c-63313b6ed218)
 
 ## 나의 기여
 
