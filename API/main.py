@@ -10,6 +10,7 @@ app = FastAPI()
 origins = [
     "http://localhost",
     "http://localhost:8080",
+    "http://localhost:8081",
     "http://localhost:3000",
 ]
 
@@ -30,6 +31,7 @@ separator = Separator(model_name)
 
 # 분리된 음원을 저장할 디렉토리 경로
 output_dir = './output'
+os.makedirs(output_dir, exist_ok=True)
 
 
 # 경로 문자 처리

@@ -24,3 +24,6 @@ API/pretrained_models/5stems/model.data-00000-of-00001
 API/pretrained_models/5stems/model.index
 
 API/pretrained_models/5stems/model.meta
+
+# Spleeter 분리 결과물(업로드 원본 + stem .wav) - 런타임 생성 파일
+API/output/
